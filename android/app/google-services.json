@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149378938585",
+    "project_id": "pim-care",
+    "storage_bucket": "pim-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149378938585:android:8ade53126a9504d5b930c8",
+        "android_client_info": {
+          "package_name": "com.example.pim_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149378938585-lmnkn4mvia7876hiai5v1srqq1ltf8p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pim_core",
+            "certificate_hash": "412ac7654d0351eb0793d3c06ec1a17636b008d6"
+          }
+        },
+        {
+          "client_id": "149378938585-cf9saaqpj97jg1tg0c6ojnrkc7jf8smf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwL9aRaBDrgB1jrV9zGjaxOc0mDQU9k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149378938585-1aannb8tgvj1ncue5gg5h1p6s47755e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149378938585-1r6pvlr2r2hukv01qdli0djhq4qs3cqe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pimCore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
